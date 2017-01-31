@@ -1,1 +1,9 @@
 H:\proyectos\practicas\c#\video1one\video1one\bin\Debug\video1one.exe.config
+H:\proyectos\practicas\c#\video1one\video1one\bin\Debug\video1one.exe
+H:\proyectos\practicas\c#\video1one\video1one\bin\Debug\video1one.pdb
+H:\proyectos\practicas\c#\video1one\video1one\obj\Debug\video1one.csprojResolveAssemblyReference.cache
+H:\proyectos\practicas\c#\video1one\video1one\obj\Debug\video1one.frminicio.resources
+H:\proyectos\practicas\c#\video1one\video1one\obj\Debug\video1one.Properties.Resources.resources
+H:\proyectos\practicas\c#\video1one\video1one\obj\Debug\video1one.csproj.GenerateResource.Cache
+H:\proyectos\practicas\c#\video1one\video1one\obj\Debug\video1one.exe
+H:\proyectos\practicas\c#\video1one\video1one\obj\Debug\video1one.pdb
